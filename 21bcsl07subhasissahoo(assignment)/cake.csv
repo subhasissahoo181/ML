@@ -1,0 +1,5 @@
+,item_name,batter_id,batter_type,topping_id,topping_type
+0,Cake,1001,Regular,5001,None
+1,Cake,1002,Chocolate,5002,Glazed
+2,Cake,1003,Blueberry,5005,Sugar
+3,Cake,1004,Devil's Food,5007,Powdered Sugar
